@@ -37,12 +37,8 @@ Click the quick start deployment link below to automatically authorize your temp
 
 Authentication credentials are automatically incorporated into the template, making it easy to get started coding and customizing.
 
-##### Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/77dd7904-ed54-4adf-bd08-023b3f9287d7/deploy-status)](https://app.netlify.com/sites/wix-commerce-ticketing-nextjs-templat/deploys)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://manage.wix.com/headless-funnel-nextjs/netlify?repository=https://github.com/wix/wix-commerce-ticketing-nextjs-template)
-
-For more information, see [How to Deploy Next.js Sites to Netlify](https://www.netlify.com/blog/2020/11/30/how-to-deploy-next.js-sites-to-netlify/).
+##### Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fah100101%2Fwix-commerce-ticketing-nextjs-template&env=NEXT_PUBLIC_WIX_CLIENT_ID&envDescription=Set%20the%20CLIENT_ID%20for%20the%20associated%20OAuth%20app%20in%20your%20Wix%20Headless%20settings&envLink=https%3A%2F%2Fmanage.wix.com%2Fdashboard%2F5e26c999-19a5-401c-9ddd-797af8552739%2Foauth-apps-settings%3FreferralInfo%3Dsettings-lobby)
 
 You can also view our [live demo site](https://netlify.commerce-ticketing-demo.wix.dev/). In order to view the full flow in the demo site, use the coupon code `FREE` to order products, and use the coupon code `FREETICKET` to "purchase" tickets. This template actively disables reCAPTCHA on direct login.
 
